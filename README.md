@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
   <div>
-    <img src="https://64.media.tumblr.com/434432f3d64f0adb12a1d5b98f5a18a9/tumblr_oxh6dkdMyJ1sxbd6vo2_540.gifv">
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*qCItaG8NMgORwpMFe_UDow.gif">
   </div>
 
 
