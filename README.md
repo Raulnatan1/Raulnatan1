@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B31F7&random=false&width=435&lines=Welcome+to+Raul's+profile" alt="Typing SVG" /></a>
-
-
-  <div>
+<div style="display: inline-block;">
     <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*qCItaG8NMgORwpMFe_UDow.gif">
-  </div>
+</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulnatan1&show_icons=true&theme=midnight-purple)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulnatan1&show_icons=true&theme=midnight-purple)
-<br>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulnatan1&layout=compact&langs_count=7&theme=midnight-purple"/>
-<br>
+<div style="display: inline-block;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulnatan1&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
