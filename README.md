@@ -1,5 +1,3 @@
-# Welcome to Raul's profile
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=8B31F7&random=false&width=435&lines=Welcome+to+Raul's+profile)
 
 ![GIF](https://miro.medium.com/v2/resize:fit:640/format:webp/1*qCItaG8NMgORwpMFe_UDow.gif)
